@@ -1,0 +1,1 @@
+include ':app', ':linphone-sdk-android-4.2-25-g42326b4'

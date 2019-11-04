@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328027549484",
+    "firebase_url": "https://db-online-30707.firebaseio.com",
+    "project_id": "db-online-30707",
+    "storage_bucket": "db-online-30707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328027549484:android:fb36eb4e489e2b5b",
+        "android_client_info": {
+          "package_name": "com.example.olaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328027549484-v28kvfdejslbsudtem8co0ple70d18h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NFYe-aVtWOH7LOHicOnpik9NpFEMZ8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328027549484-v28kvfdejslbsudtem8co0ple70d18h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

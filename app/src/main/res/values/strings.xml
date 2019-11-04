@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Olaz</string>
+    <string name="pic">This is a picture</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_remember_me">Remember me?</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="text_login">LOG IN</string>
+    <string name="text_sign_up">SIGN UP</string>
+
+    <string name="open">SIGN UP</string>
+    <string name="close">SIGN UP</string>
+
+    <string name="text_already_have_account">Already have account?</string>
+</resources>
